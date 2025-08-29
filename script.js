@@ -35,7 +35,7 @@ const perguntas = [
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "A computação em nuvem apresenta sérios riscos e desvantagens para as empresas. A dependência de um provedor de nuvem pode levar a problemas de segurança, como vazamento de dados e ataques cibernéticos, já que a empresa perde o controle físico de suas informações?",
 
             alternativas: [
                 {
